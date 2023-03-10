@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'StarWars IV about to begin'
+telnet towel.blinkenlights.nl
